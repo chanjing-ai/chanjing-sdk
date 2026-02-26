@@ -5,13 +5,13 @@
 ## 安装
 
 ```bash
-pip install chanjing
+pip install chanjingsdk
 ```
 
 安装可选依赖（音频时长检测、视频尺寸检测）：
 
 ```bash
-pip install chanjing[all]
+pip install chanjingsdk[all]
 ```
 
 从源码安装（开发模式）：
