@@ -1,7 +1,7 @@
 [project]
 name = "chanjingsdk"
 description = "蝉镜 AI Python SDK - 对口型、声音克隆、语音合成"
-version = "1.0.0"
+version = "1.0.1"
 license = {text = "MIT"}
 requires-python = ">=3.9"
 readme = "README.md"
