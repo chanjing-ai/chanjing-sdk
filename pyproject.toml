@@ -1,5 +1,5 @@
 [project]
-name = "chanjing"
+name = "chanjingsdk"
 description = "蝉镜 AI Python SDK - 对口型、声音克隆、语音合成"
 version = "1.0.0"
 license = {text = "MIT"}
