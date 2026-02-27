@@ -1,6 +1,6 @@
 # 蝉镜 AI Python SDK
 
-基于[蝉镜 AI 开放平台](https://www.chanjing.cc/)的 Python SDK，提供对口型、声音克隆、语音合成能力。
+基于[蝉镜 AI 开放平台](https://www.chanjing.cc/)的 Python SDK，支持数字人对口型、声音克隆和语音合成能力，便于快速应用于虚拟口播、课程讲解以及多种配音等场景。
 
 ## 安装
 
